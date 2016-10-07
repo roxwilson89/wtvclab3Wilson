@@ -11,6 +11,15 @@ html, body  {
     background-color: aquamarine;
 	margin: 0;
 }
+h1 {
+    color: darkcyan;
+}
+h2 {
+    color:darkorchid;
+}
+
+
+
 /* Correct `block` display not defined in IE 8/9.*/
 article,aside,details,figcaption,figure,footer,header,main,nav,section,summary {
   display: block;
